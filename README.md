@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [AMY JACKSON](https://t.me/BanhammerMarie_bot).
+Can be found on telegram as [NAYANTHARA](https://t.me/midukkinayanthara_bot).
 
  I am moderating a [FILM GROUP](https://t.me/focusmoviess), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
